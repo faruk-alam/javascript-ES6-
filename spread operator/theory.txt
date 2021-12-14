@@ -1,0 +1,14 @@
+The spread operator, which is also denoted by (...), performs the exact opposite function of the rest operator.
+The spread operator spreads out (i.e. splits up) an array and passes the values into the specified function.
+The spread operator ... is used to expand or spread an iterable or an array. For example,
+
+const arrValue = ['My', 'name', 'is', 'Jack'];
+
+console.log(arrValue);   // ["My", "name", "is", "Jack"]
+console.log(...arrValue); // My name is Jack
+In this case, the code:
+
+console.log(...arrValue)
+is equivalent to:
+
+console.log('My', 'name', 'is', 'Jack');
