@@ -1,0 +1,14 @@
+JavaScript for...of loop :
+
+The for...of loop was introduced in the later versions of JavaScript ES6.
+The for..of loop in JavaScript allows you to iterate over iterable objects (arrays, sets, maps, strings etc).
+
+The syntax of the for...of loop is:
+
+for (element of iterable) {
+    // body of for...of
+}
+Here,
+iterable - an iterable object (array, set, strings, etc).
+element - items in the iterable
+In plain English, you can read the above code as: for every element in the iterable, run the body of the loop.
