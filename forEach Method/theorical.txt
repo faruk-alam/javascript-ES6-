@@ -1,0 +1,4 @@
+forEach() is an iteration method, and it is mainly used for the serial execution of functionality against a 
+list of elements.
+The forEach() method executes a function once for each item in the array. The method is called on the array 
+object that you wish to manipulate, and the function to call is provided as an argument.
