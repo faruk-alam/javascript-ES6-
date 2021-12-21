@@ -1,0 +1,14 @@
+JavaScript Map :
+
+Map is similar to objects in JavaScript that allows us to store elements in a key/value pair.
+
+The elements in a Map are inserted in an insertion order. However, unlike an object, a map can contain objects, 
+functions and other data types as key.
+Points to remember
+A map object cannot contain the duplicate keys.
+A map object can contain the duplicate values.
+The key and value can be of any type (allows both object and primitive values).
+A map object iterates its elements in insertion order.
+
+The filter() Array method creates a new array with elements that fall under a given criteria from an existing 
+array.
