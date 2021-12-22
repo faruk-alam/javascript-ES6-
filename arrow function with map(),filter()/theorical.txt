@@ -1,0 +1,5 @@
+Arrow Functions
+Arrow Functions are another interesting feature in ES6. It provides a more concise syntax for writing function 
+expressions by opting out the function and return keywords.
+
+Arrow functions are defined using a new syntax, the fat arrow (=>) notation. 
