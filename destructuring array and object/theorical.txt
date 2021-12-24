@@ -1,0 +1,7 @@
+Destructuring array and object:
+The destructuring assignment introduced in ES6 makes it easy to assign array values and object properties to 
+distinct variables.
+The destructuring assignment is an expression that makes it easy to extract values from arrays, or properties 
+from objects, into distinct variables by providing a shorter syntax.
+
+
