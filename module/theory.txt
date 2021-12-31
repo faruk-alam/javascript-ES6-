@@ -1,0 +1,5 @@
+ES6 introduces file based module, in which each module is represented by a separate .js file. Now, you can 
+use the export or import statement in a module to export or import variables, functions, classes or any other 
+entity to/from other modules or files.
+Finally open this HTML file in your browser 
+using HTTP protocol (or use localhost). Also notice the type="module" on script tag.
